@@ -21,6 +21,7 @@
 ## Project Details:
 
 It is a java web application where all management tools of a veterinary company are considered and used. In the project, security operations are provided with Spring Security, user movements and session information are controlled. With the Thymeleaf structure, the master page technique has been created for page structures. 
+This project was designed using the Spring-Boot framework, following the MVC design pattern. MySql was used as the database during the design phase. JPA, one of the ORM tools, was used to manage the database. While developing the interface, HTML, CSS, BootStrap5 and JavaScript were used. Java and JavaScript languages are used in the back-end part. JQuery is used on the JavaScript side. (Ajax methods in jQuery)
 
 The structures in the project;
 - Security activities
