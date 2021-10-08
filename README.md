@@ -34,7 +34,6 @@ The structures in the project;
 - Validation
 - Log4j
 
-
 Below are the ready-made admin information registered to the system. You can login to the application with this username and password.
 
 ## User Information:
