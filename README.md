@@ -25,11 +25,15 @@ This project was designed using the Spring-Boot framework, following the MVC des
 
 The structures in the project;
 - Security activities
+- Spring Security
+- Spring Data JPA
 - Logging process,
-- Database queries (Jpa, Crud)
+- Database queries (Crud)
 - RestApi
 - Page management by roles
 - Validation
+- Log4j
+
 
 Below are the ready-made admin information registered to the system. You can login to the application with this username and password.
 
