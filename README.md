@@ -1,7 +1,7 @@
 # Java SpringMVC VetClinic Project (SpringMvc, Thymeleaf)
 
 <p>
-  <a href="https://github.com/slymnkrc/Java-SpringMVC-VetClinic-Project">
+  <a href="https://www.java.com/download/ie_manual.jsp">
     <img src="https://img.shields.io/badge/Java-v1.8-3eb049" alt="Java" data-canonical-src="https://img.shields.io/badge/Java-v1.8-3eb049" style="max-width: 100%;">
   </a>
   <a href="https://github.com/slymnkrc/Java-SpringMVC-VetClinic-Project">
