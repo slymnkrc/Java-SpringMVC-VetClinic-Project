@@ -13,7 +13,7 @@
   <a href="https://mvnrepository.com/artifact/nz.net.ultraq.thymeleaf/thymeleaf-layout-dialect">
     <img src="https://img.shields.io/badge/Thymeleaf-v2.0.5-306998" alt="Thymeleaf" data-canonical-src="https://img.shields.io/badge/Thymeleaf-v2.0.5-306998" style="max-width:           100%;">
   </a>
-  <a href=" https://mvnrepository.com/artifact/log4j/log4j">
+  <a href="https://mvnrepository.com/artifact/log4j/log4j">
     <img src="https://img.shields.io/badge/Log4j-v1.2.17-eeeeee" alt="Log4j" data-canonical-src="https://img.shields.io/badge/Log4j-v1.2.17-eeeeee" style="max-width:           100%;">
   </a>
 </p>
